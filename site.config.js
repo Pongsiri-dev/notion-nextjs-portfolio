@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '10a3fc32e0a84e28bfd69504aded5ead',
+  rootNotionPageId: 'f1633a1be36441f5929e8af8631aa64b',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Islem Maboud Portfolio',
-  domain: 'islemmaboud.dev',
-  author: 'Islem Maboud',
+  name: 'My Portfolio',
+  domain: 'dever-dev.dev',
+  author: 'Pongsiri.an',
 
   // open graph metadata (optional)
   description: 'Elegant Portfolio',
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'ipenywis',
-  github: 'ipenywis',
-  linkedin: 'islem-maboud',
+  twitter: '#',
+  github: 'Pongsiri-dev',
+  linkedin: '#',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
